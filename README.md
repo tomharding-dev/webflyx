@@ -1,1 +1,1 @@
-Created during the completion of the Python courses on boot.dev.
+Created during the completion of the courses on boot.dev.
